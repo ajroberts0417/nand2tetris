@@ -1,3 +1,15 @@
+# Notes from Andrew - Foundations of Computing
+
+I've modified the software slightly, here's the main thing you need to know:
+1. I built a CLI tool called `nand` that should make running the nand2tetris software suite easier. You can run it after installation by calling `nand` from any terminal.
+
+To install, simply do the following:
+1. `git clone git@github.com:ajroberts0417/nand2tetris.git`
+2. `cd nand2tetris`
+3. `python3 cli/setup.py` (you may need to restart your terminal after this)
+4. `nand -h`
+
+
 # Building a Modern Computer from First Principles
 
 The materials are aimed at students, instructors, and self-learners. Everything is free and open-source; as long as you operate in a non-profit educational setting, you are welcome to modify and use our materials as you see fit.
