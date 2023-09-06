@@ -2,6 +2,7 @@
 
 I've modified the software slightly, here's the main thing you need to know:
 1. I built a CLI tool called `nand` that should make running the nand2tetris software suite easier. You can run it after installation by calling `nand` from any terminal.
+2. You will need Java to run the software suite. Check your installation with `java -version`. If you don't have java, you can install it [here](https://www.java.com/en/download/).
 
 To install, simply do the following:
 1. `git clone git@github.com:ajroberts0417/nand2tetris.git`
