@@ -1,6 +1,6 @@
 # Notes from Andrew - Foundations of Computing
 
-I've modified the course software slightly, to download the course and course CLI, simply do the following:
+I've modified the course software slightly, to download the course and course CLI, simply do the following in whichever terminal you prefer:
 1. `git clone git@github.com:ajroberts0417/nand2tetris.git`
 2. `cd nand2tetris`
 3. `python3 cli/setup.py` (you may need to restart your terminal after this)
